@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/john-portfolio-web/static/css/main.bbf7cb7a.css",
+    "main.js": "/john-portfolio-web/static/js/main.56b25f75.js",
+    "static/media/John.png": "/john-portfolio-web/static/media/John.4bbd676761f618e001d7.png",
+    "static/media/work2.png": "/john-portfolio-web/static/media/work2.954e095695f3e9b18914.png",
+    "static/media/work1.png": "/john-portfolio-web/static/media/work1.759eace883cba0e2ecd1.png",
+    "static/media/work3.png": "/john-portfolio-web/static/media/work3.cafc12e6403e015d29bd.png",
+    "static/media/insta.svg": "/john-portfolio-web/static/media/insta.3d68c46cfdb30a63df12cfd1e23c9a94.svg",
+    "static/media/twitter.svg": "/john-portfolio-web/static/media/twitter.a32db65d6e8196f04e3966848ec15ed4.svg",
+    "static/media/Linkedin.svg": "/john-portfolio-web/static/media/Linkedin.05ad1948f9e4becd70e323c2cf6089bc.svg",
+    "index.html": "/john-portfolio-web/index.html",
+    "static/media/fb.svg": "/john-portfolio-web/static/media/fb.09acd56da0adb2d6e6e32841041e5a3a.svg",
+    "main.bbf7cb7a.css.map": "/john-portfolio-web/static/css/main.bbf7cb7a.css.map",
+    "main.56b25f75.js.map": "/john-portfolio-web/static/js/main.56b25f75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbf7cb7a.css",
+    "static/js/main.56b25f75.js"
+  ]
+}
