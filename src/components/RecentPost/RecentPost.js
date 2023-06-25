@@ -18,7 +18,7 @@ export const RecentPost = ({ title, date, category, text, index }) => {
   return (
     <div className="recent-posts__column">
       <article className="recent-posts__item recent-post">
-        <a href="#App" className="recent-post__title" onClick={changeIsOpen}>
+        <a href="#?" className="recent-post__title" onClick={changeIsOpen}>
           {title}
         </a>
         <div className="recent-post__info">

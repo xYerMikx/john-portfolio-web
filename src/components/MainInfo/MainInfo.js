@@ -2,7 +2,7 @@ import React from "react";
 import { downloadFileAtURL } from "../../utils/downloadFileAtURL";
 import avatar from "../../img/John.png";
 
-const RESUME_FILE = "http://localhost:3000/resume.pdf";
+const RESUME_FILE = "./resume.pdf";
 
 export const MainInfo = () => {
   return (
